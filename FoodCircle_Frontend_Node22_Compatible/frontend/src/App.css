@@ -1,0 +1,45 @@
+
+body {
+  margin: 30px;
+  background: #ffffff;
+  color: #222222;
+  font-family: Arial, sans-serif;
+}
+
+h1,
+h2 {
+  color: #222222;
+}
+
+input,
+select,
+button {
+  padding: 8px;
+  font-size: 15px;
+}
+
+input {
+  width: 250px;
+  background: #ffffff;
+  color: #222222;
+  border: 1px solid #888888;
+  border-radius: 4px;
+}
+
+input::placeholder {
+  color: #777777;
+}
+
+select {
+  background: #ffffff;
+  color: #222222;
+  border: 1px solid #888888;
+}
+
+button {
+  background: #ffffff;
+  color: #222222;
+  border: 1px solid #555555;
+  border-radius: 4px;
+  cursor: pointer;
+}
